@@ -1,0 +1,80 @@
+import Link from "next/link"
+import { ShieldCheck, ShieldAlert, Boxes, FileText } from "lucide-react"
+import { getAdminOrders } from "@/app/actions/order-management"
+import { SiteNavbar } from "@/components/site-navbar"
+import { SiteFooter } from "@/components/site-footer"
+import { Button } from "@/components/ui/button"
+import { Card, CardDescription, CardTitle } from "@/components/ui/card"
+import { AdminOrdersClient } from "./admin-orders-client"
+
+export default async function AdminOrdersPage() {
+  const result = await getAdminOrders()
+
+  // 1. Authentication Check (Sign-in Wall)
+  if (!result.success || !result.orders) {
+    return (
+      <div className="flex min-h-screen flex-col">
+        <SiteNavbar />
+        <main className="flex-1 max-w-md mx-auto w-full px-4 py-20 flex flex-col justify-center">
+          <Card className="border border-border rounded-3xl p-6 text-center space-y-5 shadow-sm">
+            <span className="flex size-12 items-center justify-center rounded-full bg-amber-50 text-amber-500 mx-auto border border-amber-100">
+              <ShieldAlert className="size-6" />
+            </span>
+            <div className="space-y-1.5">
+              <CardTitle className="text-xl">Admin Access Required</CardTitle>
+              <CardDescription className="max-w-[280px] mx-auto">
+                Please log in to an administrator account to view global marketplace order details and metrics.
+              </CardDescription>
+            </div>
+            <Button className="w-full h-11 shadow-md shadow-primary/10" render={<Link href="/login?callbackURL=/admin/orders" />}>
+              Sign In as Admin
+            </Button>
+          </Card>
+        </main>
+        <SiteFooter />
+      </div>
+    )
+  }
+
+  return (
+    <div className="flex min-h-screen flex-col bg-muted/30">
+      <SiteNavbar authenticated />
+      <main className="mx-auto w-full max-w-7xl flex-1 px-4 py-8 sm:px-6 lg:px-8">
+        <div className="space-y-8">
+          
+          {/* Header */}
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+            <div>
+              <p className="text-sm font-medium text-primary">Admin Control Center</p>
+              <h1 className="mt-0.5 text-2xl font-semibold tracking-tight sm:text-3xl flex items-center gap-2 text-foreground">
+                <ShieldCheck className="size-7 text-primary" />
+                Global Order Management
+              </h1>
+              <p className="mt-1 text-sm text-muted-foreground">
+                Oversee all marketplace transactions, filter split packages by vendor, and inspect logistics status.
+              </p>
+            </div>
+            <div className="flex gap-2">
+              <Button size="sm" variant="outline" className="h-9 gap-1.5" render={<Link href="/admin/products" />}>
+                <Boxes className="size-4" />
+                Product Approvals
+              </Button>
+              <Button size="sm" variant="outline" className="h-9 gap-1.5" render={<Link href="/admin/vendors" />}>
+                Manage Vendors
+              </Button>
+              <Button size="sm" variant="outline" className="h-9 gap-1.5" render={<Link href="/admin/invoices" />}>
+                <FileText className="size-4" />
+                Invoices
+              </Button>
+            </div>
+          </div>
+
+          {/* Orders Component */}
+          <AdminOrdersClient initialOrders={result.orders} vendors={result.vendors || []} />
+
+        </div>
+      </main>
+      <SiteFooter />
+    </div>
+  )
+}

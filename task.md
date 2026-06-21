@@ -1,0 +1,16 @@
+- [x] Implement multi-vendor split in `app/actions/order.ts`
+- [x] Update payment verification & failure actions in `app/actions/payment.ts` to support split orders
+- [x] Create order management actions (Vendor, Admin, Buyer actions) in `app/actions/order-management.ts`
+- [x] Create Buyer Order History page `/orders` (`app/orders/page.tsx`)
+- [x] Create Vendor Orders management portal `/vendor/orders` (`app/vendor/orders/page.tsx`)
+- [x] Create Admin Orders overview `/admin/orders` (`app/admin/orders/page.tsx`)
+- [x] Update `/payment/success` and `/payment/failure` pages for split order support
+- [x] Add "Manage orders" dashboard link in `app/vendor/page.tsx`
+- [x] Run build verification (`pnpm build`)
+- [x] Test end-to-end multi-vendor split, tracking status updates, and history view
+- [x] Create server action for invoice details in `app/actions/invoice.ts`
+- [x] Create invoice rendering page `/orders/invoice/[orderId]` with A4 print layout and download triggers
+- [x] Create Admin Invoices list view at `/admin/invoices`
+- [x] Add invoice download buttons in buyer orders client `/orders`
+- [x] Add Invoice panel navigation link in `/admin/orders`
+- [x] Verify build compilation and invoice math logic

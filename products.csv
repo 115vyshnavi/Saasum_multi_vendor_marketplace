@@ -1,0 +1,101 @@
+name,category,price,compareAtPrice,stock,rating,reviewCount,description,sku
+iPhone 15 Pro Max 256GB,Electronics,1199.99,1399.99,45,4.8,2341,Latest flagship smartphone with advanced camera system and titanium build,APL-IPH15PM-256
+Samsung Galaxy S24 Ultra 512GB,Electronics,1099.99,1299.99,32,4.7,1876,Premium Android smartphone with built-in S-Pen and AI photography,SAM-GS24U-512
+MacBook Pro 14 M3 Chip,Electronics,1999.99,2299.99,18,4.9,1543,Professional laptop with M3 chip for creative workflows,APL-MBP14M3-512
+Dell XPS 13 Plus Laptop,Electronics,1299.99,1599.99,25,4.6,987,Ultra-portable laptop with InfinityEdge display,DEL-XPS13P-512
+Sony WH-1000XM5 Headphones,Electronics,329.99,399.99,67,4.8,3421,Industry-leading noise canceling wireless headphones,SNY-WH1000XM5
+Apple AirPods Pro 2nd Gen,Electronics,249.99,299.99,89,4.7,4521,Active noise cancellation with spatial audio,APL-AIRPRO2-USB
+Bose QuietComfort Earbuds,Electronics,199.99,279.99,54,4.6,2198,Premium noise canceling true wireless earbuds,BSE-QCEB-BLK
+Apple Watch Series 9 GPS,Electronics,399.99,499.99,43,4.8,1765,Advanced health monitoring with bright display,APL-AWS9-45MM
+Samsung Galaxy Watch 6,Electronics,329.99,399.99,38,4.5,1234,Comprehensive health tracking with Android integration,SAM-GW6-44MM
+iPad Pro 12.9 M2 Chip,Electronics,1099.99,1299.99,29,4.7,2876,Professional tablet with Liquid Retina XDR display,APL-IPADP129-256
+Lenovo ThinkPad X1 Carbon,Electronics,1599.99,1899.99,21,4.6,1432,Business laptop with military-grade durability,LEN-X1C11-512
+ASUS ROG Strix Gaming Laptop,Electronics,1799.99,2199.99,15,4.7,3456,High-performance gaming laptop with RTX graphics,ASU-ROGST15-1TB
+Microsoft Surface Pro 9,Electronics,999.99,1299.99,34,4.5,1876,2-in-1 laptop tablet with Intel processors,MSF-SP9-256
+Razer DeathAdder V3 Mouse,Electronics,79.99,99.99,125,4.6,2341,Ergonomic gaming mouse with Focus Pro sensor,RZR-DAV3-BLK
+Logitech MX Master 3S,Electronics,99.99,129.99,87,4.7,1987,Advanced wireless mouse for productivity,LOG-MXM3S-GRY
+Anker PowerCore 10000,Electronics,29.99,39.99,234,4.5,5432,Compact portable charger with fast charging,ANK-PC10K-BLK
+Samsung 43 4K Smart TV,Electronics,449.99,599.99,42,4.6,1765,Crystal UHD display with Tizen smart platform,SAM-43AU7000
+LG OLED55C3 Smart TV,Electronics,1299.99,1599.99,18,4.8,2134,Premium OLED display with Dolby Vision,LG-OLED55C3
+Nintendo Switch OLED,Electronics,349.99,399.99,67,4.7,4321,Enhanced gaming console with vibrant OLED screen,NTD-SWOLED-WHT
+PlayStation 5 Console,Electronics,499.99,599.99,23,4.8,6789,Next-gen gaming console with ultra-high speed SSD,SNY-PS5-STD
+Nike Air Max 270 Mens,Fashion,129.99,159.99,78,4.6,2143,Comfortable running shoes with Air Max cushioning,NKE-AM270-M10
+Adidas Ultraboost 22 Womens,Fashion,179.99,219.99,45,4.7,1876,Premium running shoes with Boost midsole technology,ADS-UB22-W8
+Levi's 501 Original Jeans,Fashion,69.99,89.99,156,4.5,3421,Classic straight-fit jeans in authentic denim,LEV-501-32W34L
+Zara Slim Fit Chino Pants,Fashion,39.99,59.99,89,4.3,987,Modern slim-fit chinos in premium cotton,ZRA-CHINO-32W
+H&M Cotton Hoodie,Fashion,24.99,34.99,234,4.2,2198,Comfortable cotton blend hoodie with drawstring,HM-HOODIE-L
+Tommy Hilfiger Polo Shirt,Fashion,49.99,69.99,123,4.6,1543,Classic polo shirt with signature logo embroidery,TMY-POLO-M
+Ralph Lauren Oxford Shirt,Fashion,89.99,119.99,67,4.7,1234,Premium button-down shirt in pure cotton,RL-OXFORD-L
+Uniqlo Heattech Long Sleeve,Fashion,19.99,29.99,345,4.4,2876,Thermal base layer with moisture-wicking technology,UNQ-HEAT-M
+Forever 21 Floral Dress,Fashion,34.99,49.99,87,4.1,1432,Trendy summer dress with floral print pattern,F21-DRESS-M
+Mango Leather Jacket,Fashion,199.99,279.99,32,4.6,987,Genuine leather jacket with modern biker styling,MNG-LEATHER-M
+Gap Denim Jacket,Fashion,79.99,99.99,94,4.4,1765,Classic denim jacket in vintage wash,GAP-DENIM-L
+Vans Old Skool Sneakers,Fashion,64.99,79.99,145,4.5,3456,Iconic skate shoes with signature side stripe,VNS-OLDSKOOL-9
+Converse Chuck Taylor All Star,Fashion,59.99,74.99,178,4.6,4321,Classic high-top sneakers in canvas material,CNV-CHUCK-9
+Adidas Stan Smith Sneakers,Fashion,89.99,109.99,98,4.7,2341,Minimalist white sneakers with green accents,ADS-STAN-9
+Timberland 6-Inch Boots,Fashion,189.99,229.99,54,4.8,1987,Waterproof premium boots for outdoor adventures,TMB-6INCH-10
+Calvin Klein Underwear Set,Fashion,29.99,39.99,156,4.3,1234,Premium cotton underwear with comfort waistband,CK-BRIEF-L
+Victoria's Secret Bra,Fashion,49.99,69.99,89,4.4,2876,Push-up bra with lace detailing and support,VS-BRA-36C
+Rolex Submariner Watch,Fashion,8999.99,9999.99,5,4.9,876,Luxury diving watch with ceramic bezel,RLX-SUB-BLK
+Casio G-Shock Watch,Fashion,149.99,199.99,67,4.6,3421,Shock-resistant digital watch for active lifestyle,CSO-GSHOCK-BLK
+Kids Disney T-Shirt,Fashion,14.99,19.99,234,4.5,1543,Colorful Disney character t-shirt for children,DSN-TSHIRT-6Y
+Philips Air Fryer XXL,Home & Kitchen,199.99,249.99,78,4.7,2341,Large capacity air fryer with rapid air technology,PHL-AFXXL-7L
+Ninja Professional Blender,Home & Kitchen,89.99,119.99,134,4.6,1876,High-speed blender with total crushing technology,NJA-PROF-1000W
+Instant Pot Duo 7-in-1,Home & Kitchen,79.99,99.99,156,4.8,3421,Multi-use pressure cooker with smart programming,IP-DUO7-6QT
+Tefal Non-Stick Pan Set,Home & Kitchen,149.99,199.99,89,4.5,987,Premium non-stick cookware with titanium coating,TFL-PANSET-3PC
+Le Creuset Dutch Oven,Home & Kitchen,299.99,399.99,23,4.9,1234,Cast iron dutch oven with enamel finish,LC-DUTCH-5QT
+KitchenAid Stand Mixer,Home & Kitchen,349.99,449.99,34,4.8,2876,Professional stand mixer with multiple attachments,KA-MIXER-5QT
+Cuisinart Food Processor,Home & Kitchen,149.99,189.99,67,4.6,1543,Multi-function food processor with large capacity,CSN-FP13-CUP
+Breville Espresso Machine,Home & Kitchen,699.99,899.99,18,4.7,987,Professional espresso machine with milk frother,BRV-ESP-875
+OXO Storage Container Set,Home & Kitchen,49.99,69.99,145,4.4,2198,Airtight food storage containers with pop lids,OXO-STOR-10PC
+IKEA Kallax Shelf Unit,Home & Kitchen,59.99,79.99,89,4.3,1432,Modular storage shelf for organization,IKE-KALLAX-4X4
+Tupperware Meal Prep Set,Home & Kitchen,34.99,49.99,178,4.5,1765,BPA-free containers for meal preparation,TPW-MEAL-7PC
+Rubbermaid Storage Bins,Home & Kitchen,29.99,39.99,234,4.2,987,Stackable storage bins with secure lids,RBM-BIN-18QT
+Shark Navigator Vacuum,Home & Kitchen,179.99,229.99,45,4.6,3456,Lightweight upright vacuum with HEPA filter,SHK-NAV-NV356
+Dyson V15 Detect Vacuum,Home & Kitchen,749.99,849.99,21,4.8,1876,Cordless vacuum with laser dust detection,DYS-V15-DETECT
+BLACK+DECKER Toaster Oven,Home & Kitchen,79.99,99.99,98,4.4,1234,Countertop toaster oven with convection cooking,BD-TO1313SBD
+Hamilton Beach Coffee Maker,Home & Kitchen,39.99,59.99,156,4.3,2341,Programmable coffee maker with auto shut-off,HB-COFFEE-12CUP
+Pyrex Glass Baking Dish Set,Home & Kitchen,24.99,34.99,234,4.5,1987,Tempered glass baking dishes in various sizes,PYX-BAKE-3PC
+All-Clad Stainless Steel Set,Home & Kitchen,599.99,799.99,12,4.9,876,Professional cookware set with tri-ply construction,AC-SS-10PC
+Lodge Cast Iron Skillet,Home & Kitchen,34.99,49.99,145,4.7,2876,Pre-seasoned cast iron skillet for versatile cooking,LDG-SKILLET-12IN
+Oxo Good Grips Utensil Set,Home & Kitchen,29.99,39.99,189,4.4,1543,Essential kitchen utensils with comfortable grips,OXO-UTENSIL-5PC
+Nike Air Zoom Pegasus 40,Sports & Outdoors,129.99,159.99,89,4.6,2341,Responsive running shoes with Zoom Air technology,NKE-PEG40-M10
+Adidas Ultraboost Light,Sports & Outdoors,189.99,219.99,56,4.7,1876,Lightweight running shoes with superior comfort,ADS-UBLIGHT-M9
+Manduka PRO Yoga Mat,Sports & Outdoors,88.99,108.99,145,4.8,3421,Professional-grade yoga mat with superior grip,MND-PRO-6MM
+Gaiam Yoga Block Set,Sports & Outdoors,19.99,29.99,234,4.4,987,High-density foam blocks for yoga practice,GAM-BLOCK-2PC
+Bowflex SelectTech Dumbbells,Sports & Outdoors,349.99,449.99,23,4.7,1234,Adjustable dumbbells replacing 15 sets,BFX-ST552-PAIR
+CAP Barbell Weight Set,Sports & Outdoors,149.99,199.99,45,4.5,2876,Olympic weight plate set for home gym,CAP-WEIGHT-300LB
+Under Armour HeatGear Shirt,Sports & Outdoors,29.99,39.99,178,4.3,1543,Moisture-wicking athletic shirt for training,UA-HEAT-L
+Adidas Climacool Shorts,Sports & Outdoors,34.99,49.99,156,4.4,987,Breathable athletic shorts with side pockets,ADS-CLIMA-L
+Wilson Pro Staff Tennis Racket,Sports & Outdoors,199.99,249.99,34,4.6,1432,Professional tennis racket with precision control,WLS-PROF-27IN
+Spalding NBA Basketball,Sports & Outdoors,29.99,39.99,89,4.5,2198,Official size basketball with deep channel design,SPL-NBA-SIZE7
+TRX Suspension Trainer,Sports & Outdoors,179.99,219.99,67,4.7,1765,Complete bodyweight training system,TRX-SUSP-HOME
+Resistance Bands Set,Sports & Outdoors,24.99,34.99,234,4.4,987,Exercise resistance bands with multiple tensions,RES-BAND-11PC
+Fitbit Charge 5,Sports & Outdoors,149.99,199.99,78,4.5,3456,Advanced fitness tracker with built-in GPS,FIT-CHG5-BLK
+Garmin Forerunner 245,Sports & Outdoors,299.99,349.99,45,4.6,2341,GPS running watch with music storage,GAR-FR245-BLK
+Hydroflask Water Bottle,Sports & Outdoors,39.99,49.99,145,4.7,1987,Insulated stainless steel water bottle,HYD-32OZ-BLK
+L'Oreal Paris Shampoo,Beauty,8.99,12.99,345,4.2,4321,Nourishing shampoo for damaged hair repair,LOR-SHAM-400ML
+Pantene Pro-V Conditioner,Beauty,7.99,10.99,289,4.3,3456,Deep conditioning treatment for smooth hair,PAN-COND-355ML
+Head & Shoulders Anti-Dandruff,Beauty,9.99,13.99,234,4.4,2876,Clinical strength dandruff shampoo,HS-ANTI-400ML
+Argan Oil Hair Treatment,Beauty,19.99,29.99,156,4.6,1987,Pure argan oil for hair nourishment,ARG-OIL-100ML
+The Ordinary Hyaluronic Acid,Beauty,12.99,18.99,189,4.7,5432,Intensive hydrating serum for all skin types,ORD-HYAL-30ML
+CeraVe Daily Moisturizer,Beauty,16.99,22.99,167,4.5,3421,Facial moisturizer with SPF 30 protection,CRV-MOIST-89ML
+Neutrogena Face Wash,Beauty,8.99,12.99,234,4.3,2341,Deep clean foaming face wash for acne-prone skin,NEU-WASH-200ML
+Olay Regenerist Serum,Beauty,29.99,39.99,89,4.6,1876,Anti-aging serum with amino-peptides,OLY-REGEN-50ML
+Maybelline Mascara,Beauty,11.99,15.99,178,4.4,2876,Volumizing mascara for dramatic lashes,MAY-MASC-9ML
+MAC Ruby Woo Lipstick,Beauty,26.99,32.99,98,4.7,1543,Iconic red matte lipstick with full coverage,MAC-RUBY-3G
+Clinique Dramatically Different,Beauty,34.99,44.99,123,4.5,1987,Moisturizing lotion for very dry to dry skin,CLI-DRAMA-125ML
+Estee Lauder Night Repair,Beauty,89.99,115.99,45,4.8,987,Advanced night repair serum with healing technology,EL-NIGHT-50ML
+Dove Beauty Bar Soap,Beauty,3.99,5.99,456,4.2,6789,Moisturizing beauty bar with 1/4 moisturizing cream,DOV-BAR-135G
+Bath & Body Works Lotion,Beauty,13.99,18.99,189,4.4,2341,Signature collection body lotion with fragrance,BBW-LOT-236ML
+Cetaphil Gentle Cleanser,Beauty,12.99,16.99,234,4.5,3456,Gentle daily facial cleanser for sensitive skin,CET-CLEAN-473ML
+Atomic Habits by James Clear,Books,14.99,19.99,456,4.8,12543,Life-changing tiny changes for remarkable results,BK-ATOMIC-PB
+Deep Work by Cal Newport,Books,13.99,18.99,234,4.7,8765,Rules for focused success in distracted world,BK-DEEP-PB
+The 7 Habits of Highly Effective People,Books,12.99,16.99,345,4.6,9876,Powerful lessons in personal change,BK-7HABITS-PB
+Think and Grow Rich,Books,9.99,14.99,189,4.5,6543,Classic personal development and wealth building,BK-THINK-PB
+Where the Crawdads Sing,Books,11.99,15.99,267,4.4,15432,Mystery and coming-of-age story in nature,BK-CRAWDADS-PB
+Harry Potter Complete Series,Books,49.99,69.99,89,4.9,23456,Complete 7-book series boxed set,BK-POTTER-BOX
+The Very Hungry Caterpillar,Books,8.99,12.99,345,4.7,4321,Classic children's picture book about growth,BK-CATERPILLAR
+Goodnight Moon Board Book,Books,6.99,9.99,456,4.6,5432,Beloved bedtime story for toddlers,BK-MOON-BB
+Adult Coloring Book Mandalas,Books,7.99,11.99,234,4.3,2876,Stress-relieving mandala designs for relaxation,BK-MANDALA-CB
+The Alchemist by Paulo Coelho,Books,10.99,14.99,189,4.5,8765,Inspirational story about following dreams,BK-ALCHEMIST-PB
